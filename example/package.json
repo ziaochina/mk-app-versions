@@ -12,7 +12,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "mk-component": "^1.0.48",
+    "mk-component": "^1.0.51",
     "mk-meta-engine": "^1.0.60",
     "mk-utils": "^1.0.52",
     "moment": "^2.19.1",
@@ -37,6 +37,6 @@
     "less-loader": "^4.0.5",
     "style-loader": "^0.18.2",
     "webpack": "^3.8.1",
-    "webpack-dev-server": "^2.9.4"
+    "webpack-dev-server": "2.9.3"
   }
 }
